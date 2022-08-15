@@ -1,6 +1,6 @@
 # ERP-semister-registration-SYSTEM
 for sql
-(copy and paste these content in note pad then only you can see the tables correctly aligned)
+(copy and paste these content in note pad then only you can see the tables correctly aligned OR view RAW)
 
 MySQL
 Database opentext
